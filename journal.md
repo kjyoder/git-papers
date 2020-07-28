@@ -3,6 +3,8 @@
 Authored by: Keith
 (For NeuroHackademy 2020)
 
+Affiliations: University of Chicago
+
 Introduction: This is the introduction to my amazing new paper.
 Based on results from Smith (2009) and DuPre (2012).
 
